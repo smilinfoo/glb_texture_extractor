@@ -1,5 +1,4 @@
 ## Installation
-
 1. Clone this repository or download the script files
 2. Install the required packages using one of these methods:
 
@@ -61,3 +60,6 @@ The texture replacer will:
 - The texture replacer requires the texture mapping log created during extraction
 - Each texture must maintain the same format as the original
 - The script will preserve all material properties and texture references
+
+## Worth noting
+This was generated with the help of Cursor with minimal direct editing.

@@ -1,8 +1,0 @@
-Please write a python script that acepts a GLB as input and saves any enbedded texture to a new folder.
-
-Could you add a readme with the usage istruction to the workspace?
-
-Could you add a requierments.txt file for the python dependencies
-
-Could update the output texture's names to match thier names in the glb
-
